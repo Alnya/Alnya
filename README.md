@@ -4,4 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alnya&layout=compact&theme=jolly)](https://github.com/Alnya/Alnya)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alnya&repo=PBL_Othello&show_owner=true&theme=jolly)](https://github.com/Alnya/PBL_Othello)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alnya&repo=Alnya.github.io&show_owner=true&theme=jolly)](https://github.com/Alnya/Alnya.github.io)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alnya&repo=OthelloArenaAPI&show_owner=true&theme=jolly)](https://github.com/Alnya/OthelloArenaAPI)
+
